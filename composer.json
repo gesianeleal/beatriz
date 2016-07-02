@@ -1,0 +1,6 @@
+{
+	"name": "beatriz",
+    "require": {
+        "phreeze/phreeze": "dev-master"
+    }
+}
